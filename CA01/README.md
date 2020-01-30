@@ -13,7 +13,8 @@ User should have the following packages installed into their Python3:
 ## Dataset
 
 The dataset used in this program is a comma separated file named [data.csv].\
-The dataset was retrieved from the Kaggle website (https://www.kaggle.com/shrutibhargava94/india-air-quality-data).\
+The dataset was retrieved from the Kaggle website (https://www.kaggle.com/shrutibhargava94/india-air-quality-data).
+
 Encoding for [data.csv] was changed to UTF-8 after being downloaded from the link above.\
 The dataset contains information about India Pollution Data, with 13 variables and 435,742 records.\
 
