@@ -2,9 +2,11 @@
 
 CA01.ipynb is a jupyter notebook program for exploratory data analysis on India pollution data.
 
-## Package Installations
+## Installations
 
-User should have the following packages installed into their Python3:
+User should have Python3 and Jupyter Notebook installed into their system.
+
+User should also have the following packages installed:
 * pandas
 * numpy
 * sklearn.impute
