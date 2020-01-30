@@ -41,7 +41,7 @@ Please be sure of the following:
 * Python3 is installed in the system
 * all packages listed above are downloaded into the system
 
-After the above step is completed, open the file and run each cell separately.
+After the above steps are completed, open the file and run each cell separately.
 
 ## Usage
 
