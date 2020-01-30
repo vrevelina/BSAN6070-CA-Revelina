@@ -4,7 +4,7 @@ CA01.ipynb is a jupyter notebook program for exploratory data analysis on India 
 
 ## Package Installations
 
-User should have the following packages installed into their system:
+User should have the following packages installed into their Python3:
 * pandas
 * numpy
 * sklearn.impute
@@ -31,6 +31,16 @@ Description of variables:
  * location_monitoring_station: Location of data collection
  * pm2_5: PSI 2.5 (*mu*g/m3)
  * date: Date of sampling
+
+## Instructions
+
+User can open CA01.ipynb through jupyter notebook.
+Please be sure of the following:
+* dataset (data.csv) with UTF-8 encoding is in the same folder as CA01.ipynb
+* Python3 is installed in the system
+* all packages listed above are downloaded into the system
+
+After the above step is completed, open the file and run each cell separately.
 
 ## Usage
 
