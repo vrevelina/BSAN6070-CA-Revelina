@@ -40,5 +40,5 @@ Then open the file and run each cell separately.
 CA02.ipynb has been provided with detailed comments to help the user understand the codes.
 
 ## Contributors
-Version 1: Code created for CA02.ipynb, by Professor Brahma\
+Version 1: Code created for CA02.ipynb in a (.py) file, by Professor Brahma\
 Version 2: A few variable changes and comments added, by Vania Revelina
