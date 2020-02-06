@@ -41,4 +41,4 @@ CA02.ipynb has been provided with detailed comments to help the user understand 
 
 ## Contributors
 Version 1: Code created for CA02.ipynb in a (.py) file, by Professor Brahma\
-Version 2: A few variable changes and comments added, by Vania Revelina
+Version 2: Changed python code format into a jupyter notebook, few variable changes and comments added, by Vania Revelina
