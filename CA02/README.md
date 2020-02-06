@@ -1,6 +1,6 @@
-# CA01.ipynb
+# CA02.ipynb
 
-CA01.ipynb is a jupyter notebook program for spam email detection using Naive Bayes Classification Algorithm.
+CA02.ipynb is a jupyter notebook program for spam email detection using Naive Bayes Classification Algorithm.
 
 ## Installations
 
