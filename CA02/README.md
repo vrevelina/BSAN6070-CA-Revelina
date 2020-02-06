@@ -18,10 +18,10 @@ User should also have the following packages installed:
 The dataset was retrieved from the following link: https://github.com/ArinB/MSBA-CA01-Spam-Mail-Naibe-Bayes 
 
 Dataset is located inside the zip folder [Data.zip], which contains two (2) folders: [train-mails] and [test-mails].\
-The dataset used in this program are a set of text files (.txt). Spam email file names start with "spmsg".\
+The dataset used in this program are a set of text files (.txt). Spam email file names start with "spmsg".
 
 [train-mails] consists of 702 emails equally divided into spam and non-spam category.\
-[test-mails] consists of 260 emails.\
+[test-mails] consists of 260 emails.
 
 Each text file represents an email in the following format:
 
