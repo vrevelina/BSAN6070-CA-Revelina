@@ -1,7 +1,11 @@
 # CA02.ipynb
 
 CA02.ipynb is a jupyter notebook program for spam email detection using Naive Bayes Classification Algorithm.
-The program has two (2) functions described under **Usage** section. It identifies the 3000 most common words from the emails in the train set. These most common words are the attributes of the emails which allow our model to classify which email are spam and non-spam.
+The program has two (2) functions described under **Usage** section.
+
+Using these two functions, the program will generate features matrices and label arrays for train data and test data.\
+Next, it will instantiate a Naive Bayes Classifier, fit the training set along with the labels into the model and test the model by classifying the emails in the test set.\
+Finally, we will calculate the accuracy score by comparing the predicted labels with the actual labels calculated using the extract_features function.
 
 ## Installations
 
