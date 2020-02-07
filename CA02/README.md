@@ -36,9 +36,13 @@ Each text file represents an email in the following format:
 
 ## Instructions
 
-User can open CA02.ipynb through jupyter notebook.
-Please be sure that the train and test directory/path are correctly specified in *TRAIN_DIR* and *TEST_DIR* respectively.
-Then open the file and run each cell separately.
+User can open CA02.ipynb through the Google Colab environment.\
+Please be sure that the train and test directories are correctly specified in *TRAIN_DIR* and *TEST_DIR* respectively.\
+The default directories are specified as the following:
+* TRAIN_DIR = '/content/drive/My Drive/MSBA_Colab_2020/ML_Algorithms/CA02/Data/train-mails'
+* TEST_DIR = '/content/drive/My Drive/MSBA_Colab_2020/ML_Algorithms/CA02/Data/test-mails'
+In order to use the default directory, user would have to mount their Google Drive into the Runtime, create folders and place the data according to the directory specified above before running the program.\
+Finally, run each cell separately.
 
 ## Usage
 
