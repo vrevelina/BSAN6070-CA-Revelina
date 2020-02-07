@@ -41,6 +41,7 @@ Please be sure that the train and test directories are correctly specified in *T
 The default directories are specified as the following:
 * TRAIN_DIR = '/content/drive/My Drive/MSBA_Colab_2020/ML_Algorithms/CA02/Data/train-mails'
 * TEST_DIR = '/content/drive/My Drive/MSBA_Colab_2020/ML_Algorithms/CA02/Data/test-mails'
+
 In order to use the default directory, user would have to mount their Google Drive into the Runtime, create folders and place the data according to the directory specified above before running the program.\
 Finally, run each cell separately.
 
