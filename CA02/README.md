@@ -43,9 +43,9 @@ FUNCTIONS
 
 * MakeCounterList(root_dir): Extracts 3000 most repeated words
   Creates a list of every word in every email, takes only alphabetical words with more than 1 character and returns 3000 words which occured the most.
-..* Parameter:
+  * Parameter:\
     root_dir (str): path to a folder which contains the emails
-..* Returns:
+  * Returns:\
     word_count_list (list): a list of tuples containing the 3000 most common words
                             with its corresponding number of occurences
 
