@@ -39,6 +39,16 @@ Then open the file and run each cell separately.
 
 CA02.ipynb has been provided with detailed comments to help the user understand the codes.
 
+FUNCTIONS
+
+* MakeCounterList(root_dir): Extracts 3000 most repeated words
+  Creates a list of every word in every email, takes only alphabetical words with more than 1 character and returns 3000 words which occured the most.
+..* Parameter:
+    root_dir (str): path to a folder which contains the emails
+..* Returns:
+    word_count_list (list): a list of tuples containing the 3000 most common words
+                            with its corresponding number of occurences
+
 ## Contributors
 Version 1: Code created for CA02.ipynb in a (.py) file, by Professor Brahma\
 Version 2: Changed python code format into a jupyter notebook, few variable changes and comments added, by Vania Revelina
