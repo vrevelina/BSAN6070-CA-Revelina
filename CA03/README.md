@@ -34,11 +34,11 @@ The dataset also contains a column named [flag] which indicates which rows to be
 
 ## Instructions
 
-User can open CA03.ipynb through jupyter notebook or the Google Colab environment.\
+User can open CA03.ipynb through jupyter notebook or the Google Colab environment.
 
 In order to be able to run the program successfully, please be sure that all the packages listed above are installed in the chosen environment. 
 
 ## Usage
 
-CA02.ipynb has been provided with detailed comments to help the user understand the codes.
+CA03.ipynb has been provided with detailed comments to help the user understand the codes.
 
