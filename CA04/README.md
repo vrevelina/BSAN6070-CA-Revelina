@@ -38,7 +38,7 @@ The purpose of CA04 is to analyze the performance of various Ensemble Models, na
 * Gradient Boost Classifier
 * XGB Classifier
 
-We do this by visualizing each classifier's behaviors in terms of accuracy score, with respect to the number of estimators specified in the hyperparameter. Then we select the best performing number of estimators and instantiate each classifier with the same hyperparameters to see the model's performance.
+We do this by visualizing each classifier's behaviors in terms of accuracy score, with respect to the number of estimators specified in the hyperparameter. Then we select the best performing number of estimators and instantiate each classifier with the same hyperparameters to see the model's performance. A more detailed analysis is also provided in the PDF file.
 
 
 
