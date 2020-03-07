@@ -26,9 +26,19 @@ The dataset also contains a column named [flag] which indicates which rows to be
 
 ## Instructions
 
-User can open CA03.ipynb through jupyter notebook or the Google Colab environment.
+User can open CA04.ipynb through jupyter notebook or the Google Colab environment. Run all cells as needed.
 
 In order to be able to run the program successfully, please be sure that all the packages listed above are installed in the chosen environment. 
+
+## Usage
+
+The purpose of CA04 is to analyze the performance of various Ensemble Models, namely:
+* Random Forest Classifier
+* AdaBoost Classifier
+* Gradient Boost Classifier
+* XGB Classifier
+
+We do this by visualizing each classifier's behaviors in terms of accuracy score, with respect to the number of estimators specified in the hyperparameter. Then we select the best performing number of estimators and instantiate each classifier with the same hyperparameters to see the model's performance.
 
 
 
