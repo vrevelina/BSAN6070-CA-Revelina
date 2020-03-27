@@ -1,6 +1,6 @@
 # CA05_A.ipynb
 
-CA05.ipynb is a jupyter notebook program for practice on Logistic Regression
+CA05_A.ipynb is a jupyter notebook program for practice on Logistic Regression
 
 ## Installations
 
