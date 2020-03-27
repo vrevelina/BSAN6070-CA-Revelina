@@ -26,7 +26,7 @@ The dataset was obtained from UCI Machine Learning Repository. It is a subset of
 * Mystery*
 * History*
 
-* These marked features are dummy variables for the genre of each movie. 1 means the movie is in the genre, 0 means the movie is not classified as the genre
+*These marked features are dummy variables for the genre of each movie. 1 means the movie is in the genre, 0 means the movie is not classified as the genre
 
 ## Instructions
 
