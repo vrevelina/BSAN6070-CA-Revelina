@@ -26,7 +26,9 @@ In order to be able to run the program successfully, please be sure that all the
 
 ## Usage
 
-There are 3 parts contained in the CA05_A.ipynb notebook file:
+There are 4 sections contained in the CA05_A.ipynb notebook file:
+* Dataset\
+  Reading and cleaning data to prepare for analysis
 * Part 1: Logistic Regression\
   Build a binary classifier model to predict the CVD Risk (Yes/No, or 1/0) using a Logistic Regression Model with the best performance possible.
 * Part 2: Feature Importance\
