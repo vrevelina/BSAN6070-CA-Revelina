@@ -28,11 +28,11 @@ In order to be able to run the program successfully, please be sure that all the
 
 There are 3 parts contained in the CA05_A.ipynb notebook file:
 * Part 1: Logistic Regression
-  Build a binary classifier model to predict the CVD Risk (Yes/No, or 1/0) using a Logistic Regression Model with the best performance possible.
+.. Build a binary classifier model to predict the CVD Risk (Yes/No, or 1/0) using a Logistic Regression Model with the best performance possible.
 * Part 2: Feature Importance
-  Display the Feature Importance of all the features sorted in the order of decreasing influence on the CVD Risk.
+.. Display the Feature Importance of all the features sorted in the order of decreasing influence on the CVD Risk.
 * Part 3: Evaluate Performance
-  Evaluate the performance of your model (including ROC Curve), explain the performance and draw a meaningful conclusion.
+.. Evaluate the performance of your model (including ROC Curve), explain the performance and draw a meaningful conclusion.
 
 
 
