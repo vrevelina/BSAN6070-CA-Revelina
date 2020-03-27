@@ -36,7 +36,7 @@ In order to be able to run the program successfully, please be sure that all the
 
 ## Usage
 
-The goal of this excercise is to create a recommender system. Given a movie and its features, the program would find 5 most similar movies to the given movie.
+The goal of this excercise is to create a recommender system. Given a movie and its features, the program would find 5 most similar movies to the given movie using an unsupervised learner, K-nearest-neighbors model. 
 
 In this case, the given movie was *The Post* with the following features:
 * IMDB Rating: 7.2
